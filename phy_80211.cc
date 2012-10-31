@@ -2439,3 +2439,4 @@ string Kis_80211_Phy::CryptToString(uint64_t cryptset) {
 	return ret;
 }
 
+// vim: ts=4:sw=4

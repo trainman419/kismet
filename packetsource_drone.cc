@@ -1068,3 +1068,4 @@ int PacketSource_DroneRemote::FetchChannel() {
 	return 0;
 }
 
+// vim: ts=4:sw=4

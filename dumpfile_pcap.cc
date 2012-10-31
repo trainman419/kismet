@@ -532,3 +532,4 @@ int Dumpfile_Pcap::chain_handler(kis_packet *in_pack) {
 
 #endif /* have_libpcap */
 
+// vim: ts=4:sw=4

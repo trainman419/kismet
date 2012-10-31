@@ -845,3 +845,4 @@ void Client_Phy80211::PanelDetailsText(Kis_Free_Text *in_textbox,
 	in_textbox->AppendText(td);
 }
 
+// vim: ts=4:sw=4

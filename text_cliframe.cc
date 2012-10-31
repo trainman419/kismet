@@ -101,3 +101,4 @@ int TextCliFrame::ParseData() {
 	return 1;
 }
 
+// vim: ts=4:sw=4

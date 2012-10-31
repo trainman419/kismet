@@ -1044,3 +1044,4 @@ int KisDroneFramework::channel_handler(const drone_packet *in_pack) {
 	return 0;
 }
 
+// vim: ts=4:sw=4

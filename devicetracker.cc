@@ -2468,3 +2468,4 @@ string Devicetracker::FetchDeviceTag(mac_addr in_device, string in_tag) {
 	return "";
 }
 
+// vim: ts=4:sw=4

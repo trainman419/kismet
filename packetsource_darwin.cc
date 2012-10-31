@@ -254,3 +254,4 @@ int PacketSource_Darwin::SetChannel(unsigned int in_ch) {
 
 #endif 
 
+// vim: ts=4:sw=4

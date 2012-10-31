@@ -123,3 +123,4 @@ int Dumpfile_Devicetracker::Flush() {
 	return ret;
 }
 
+// vim: ts=4:sw=4

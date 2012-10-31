@@ -131,3 +131,4 @@ extern int _getopt_internal ();
 #endif
 
 #endif /* _GETOPT_H */
+// vim: ts=4:sw=4

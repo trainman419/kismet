@@ -558,3 +558,4 @@ float JSON_dict_get_number(struct JSON_value *in_parent, string in_key,
 	return f;
 }
 
+// vim: ts=4:sw=4

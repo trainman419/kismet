@@ -105,3 +105,4 @@ typedef struct {
 		     (u_int64_t)*((const u_int8_t *)(p) + 2) << 16 | \
 		     (u_int64_t)*((const u_int8_t *)(p) + 1) << 8 | \
 		     (u_int64_t)*((const u_int8_t *)(p) + 0)))
+// vim: ts=4:sw=4

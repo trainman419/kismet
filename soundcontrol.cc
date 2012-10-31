@@ -360,3 +360,4 @@ int SoundControl::LocalSpeech(string in_speaker, int in_festival, string text) {
 }
 
 
+// vim: ts=4:sw=4

@@ -979,3 +979,4 @@ enum nl80211_bss {
 };
 
 #endif /* __LINUX_NL80211_H */
+// vim: ts=4:sw=4

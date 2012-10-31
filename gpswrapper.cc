@@ -168,3 +168,4 @@ GpsWrapper::GpsWrapper(GlobalRegistry *in_globalreg) {
 	}
 }
 
+// vim: ts=4:sw=4

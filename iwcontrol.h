@@ -82,3 +82,4 @@ int Iwconfig_Get_Chanlist(const char *interface, char *errstr,
 #endif
 
 #endif
+// vim: ts=4:sw=4

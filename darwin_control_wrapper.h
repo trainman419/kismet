@@ -41,3 +41,4 @@ int darwin_get_corewifi(void *in_darwin);
 
 #endif
 
+// vim: ts=4:sw=4

@@ -99,3 +99,4 @@ void kis_packet::erase(const unsigned int index) {
 	}
 }
 
+// vim: ts=4:sw=4

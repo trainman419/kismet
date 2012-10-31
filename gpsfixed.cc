@@ -103,3 +103,4 @@ int GPSFixed::ParseData() {
 
 #endif
 
+// vim: ts=4:sw=4

@@ -60,3 +60,4 @@ struct panel_plugin_meta {
 
 #endif
 
+// vim: ts=4:sw=4

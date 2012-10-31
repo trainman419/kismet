@@ -53,3 +53,4 @@ int madwifing_build_vap(const char *ifname, char *errstr, const char *vapname,
 
 #endif
 
+// vim: ts=4:sw=4

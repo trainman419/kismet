@@ -116,3 +116,4 @@ protected:
 
 #endif /* __dump... */
 	
+// vim: ts=4:sw=4

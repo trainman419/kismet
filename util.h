@@ -260,3 +260,4 @@ int GetLengthTagOffsets(unsigned int init_offset,
 
 #endif
 
+// vim: ts=4:sw=4

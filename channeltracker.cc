@@ -268,3 +268,4 @@ void Channeltracker::ChainHandler(kis_packet *in_pack) {
 	crec->sent_reset = 0;
 }
 
+// vim: ts=4:sw=4

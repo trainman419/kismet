@@ -1847,3 +1847,4 @@ void Kis_WarnPref_Panel::Action(Kis_Panel_Component *in_component,
 
 #endif
 
+// vim: ts=4:sw=4

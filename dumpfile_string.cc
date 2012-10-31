@@ -153,3 +153,4 @@ int Dumpfile_String::chain_handler(kis_packet *in_pack) {
 	return 1;
 }
 
+// vim: ts=4:sw=4

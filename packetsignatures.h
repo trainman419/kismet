@@ -142,3 +142,4 @@ const uint16_t PPTP_PORT = 1723;
 const mac_addr msfopcode_mac = mac_addr("90:E9:75:00:00:00/FF:FF:FF:00:00:00");
 
 #endif
+// vim: ts=4:sw=4

@@ -66,3 +66,4 @@ PacketSource_MacUSB::PacketSource_MacUSB(GlobalRegistry *in_globalreg,
 
 #endif 
 
+// vim: ts=4:sw=4

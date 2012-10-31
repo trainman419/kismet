@@ -532,3 +532,4 @@ int Plugintracker::BlitPlugins(int in_fd) {
 }
 
 
+// vim: ts=4:sw=4

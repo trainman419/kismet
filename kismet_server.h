@@ -46,3 +46,4 @@ void KisLocalNewclient(const wireless_client *in_cli, const wireless_network *in
 
 
 #endif
+// vim: ts=4:sw=4

@@ -436,3 +436,4 @@ const vector<kis_alert_info *> *Alertracker::FetchBacklog() {
 	return (const vector<kis_alert_info *> *) &alert_backlog;
 }
 
+// vim: ts=4:sw=4

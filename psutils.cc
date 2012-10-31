@@ -79,3 +79,4 @@ int FindProcess(string in_proc, string in_option) {
 	return 0;
 }
 
+// vim: ts=4:sw=4

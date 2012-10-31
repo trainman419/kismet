@@ -63,3 +63,4 @@ int mac80211_get_chanlist(const char *interface, vector<unsigned int> *chan_list
 #endif
 
 
+// vim: ts=4:sw=4

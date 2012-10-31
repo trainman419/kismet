@@ -1183,3 +1183,4 @@ void KisNetFramework::DelProtocolClient(int in_fd, int in_refnum) {
         client_mapped_protocols[in_refnum]--;
     }
 }
+// vim: ts=4:sw=4

@@ -158,3 +158,4 @@ string Dumpfile::ProcessConfigOpt() {
 	return retfname;
 }
 
+// vim: ts=4:sw=4

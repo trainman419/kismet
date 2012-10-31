@@ -294,3 +294,4 @@ void Kis_Info_Bits::Proto_INFO(CLIPROTO_CB_PARMS) {
 
 #endif // panel
 
+// vim: ts=4:sw=4

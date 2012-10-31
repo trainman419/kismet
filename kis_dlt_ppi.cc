@@ -310,3 +310,4 @@ int Kis_DLT_PPI::HandlePacket(kis_packet *in_pack) {
 }
 
 
+// vim: ts=4:sw=4
