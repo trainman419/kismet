@@ -856,3 +856,4 @@ int Kis_AlertDetails_Panel::UpdateSortPrefs(int always) {
 }
 
 #endif
+// vim: ts=4:sw=4

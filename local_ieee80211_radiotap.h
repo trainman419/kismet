@@ -227,3 +227,4 @@ enum ieee80211_radiotap_type {
 
 #endif /* IEEE80211_RADIOTAP_H */
 
+// vim: ts=4:sw=4

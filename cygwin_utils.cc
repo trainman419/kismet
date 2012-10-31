@@ -222,3 +222,4 @@ int Handle2Fd::IsEventSet(unsigned int HandleNumber) {
 
 #endif
 
+// vim: ts=4:sw=4

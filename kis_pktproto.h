@@ -163,3 +163,4 @@ struct ipc_source_remove {
 
 #endif
 
+// vim: ts=4:sw=4

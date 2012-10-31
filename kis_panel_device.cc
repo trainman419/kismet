@@ -1790,3 +1790,4 @@ void Kis_DevDetails_Panel::DrawPanel() {
 
 #endif // ncurses
 
+// vim: ts=4:sw=4

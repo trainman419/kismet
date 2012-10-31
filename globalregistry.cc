@@ -194,3 +194,4 @@ Dumpfile *GlobalRegistry::FindDumpFileType(string in_type) {
 
 	return NULL;
 }
+// vim: ts=4:sw=4

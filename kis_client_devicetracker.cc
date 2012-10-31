@@ -894,3 +894,4 @@ void Client_Devicetracker::PanelInitialized() {
 
 }
 
+// vim: ts=4:sw=4

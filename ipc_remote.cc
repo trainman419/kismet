@@ -1039,3 +1039,4 @@ int RootIPCRemote::SyncIPC() {
 	return IPCRemote::SyncIPC();
 }
 
+// vim: ts=4:sw=4

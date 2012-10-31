@@ -414,3 +414,4 @@ int Kis_DLT_Radiotap::HandlePacket(kis_packet *in_pack) {
 #undef BIT
 
 
+// vim: ts=4:sw=4

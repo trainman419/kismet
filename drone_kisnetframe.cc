@@ -127,3 +127,4 @@ void KisNetFramework::DelProtocolClient(int in_fd, int in_refnum) {
 }
 
 
+// vim: ts=4:sw=4

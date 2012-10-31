@@ -216,3 +216,4 @@ class PacketSource_Wrt54Prism : public PacketSource_Wext { public:
 
 #endif
 
+// vim: ts=4:sw=4

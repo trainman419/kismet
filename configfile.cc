@@ -568,3 +568,4 @@ void GroupConfigFile::CalculateChecksum() {
 }
 
 
+// vim: ts=4:sw=4

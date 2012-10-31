@@ -361,3 +361,4 @@ int main(int argc, char *argv[], char *envp[]) {
 
 	CatchShutdown(-1);
 }
+// vim: ts=4:sw=4

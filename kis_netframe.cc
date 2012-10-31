@@ -322,6 +322,8 @@ int Protocol_PACKET_hook(CHAINCALL_PARMS) {
 
     globalreg->kisnetserver->SendToAll(_NPM(PROTO_REF_PACKET), (void*) data);
 
+    delete data;
+
     return 0;
 }
 
@@ -1183,3 +1185,4 @@ void KisNetFramework::DelProtocolClient(int in_fd, int in_refnum) {
         client_mapped_protocols[in_refnum]--;
     }
 }
+// vim: ts=4:sw=4

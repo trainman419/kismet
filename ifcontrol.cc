@@ -329,3 +329,4 @@ int Ifconfig_Set_Netmask(const char *in_dev, char *errstr, const char *netmask) 
 
 #endif
 
+// vim: ts=4:sw=4

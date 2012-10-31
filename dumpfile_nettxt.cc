@@ -661,3 +661,4 @@ int Dumpfile_Nettxt::Flush() {
 }
 
 
+// vim: ts=4:sw=4

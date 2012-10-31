@@ -1904,3 +1904,4 @@ int KisBuiltinDissector::cmd_stringsfilter(CLIENT_PARMS) {
 }
 #endif
 
+// vim: ts=4:sw=4

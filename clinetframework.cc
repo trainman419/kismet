@@ -274,3 +274,4 @@ int ClientFramework::Shutdown() {
     return ret;
 }
 
+// vim: ts=4:sw=4

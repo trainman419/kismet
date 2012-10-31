@@ -522,3 +522,4 @@ string mac80211_find_parent(const char *interface) {
 
 #endif /* linux */
 
+// vim: ts=4:sw=4

@@ -37,3 +37,4 @@ int Fetch_Battery_Info(kis_battery_info *out_info);
 
 #endif
 
+// vim: ts=4:sw=4

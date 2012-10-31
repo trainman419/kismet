@@ -122,3 +122,4 @@ void JSON_dump(struct JSON_value *jsonv, string key, int depth);
 
 #endif
 
+// vim: ts=4:sw=4

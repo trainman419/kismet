@@ -759,3 +759,4 @@ int FilterCore::RunPcreFilter(string in_text) {
 	return 0;
 }
 
+// vim: ts=4:sw=4

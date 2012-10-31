@@ -3114,3 +3114,4 @@ void Kis_AddDevNote_Panel::Action(Kis_Panel_Component *in_button, int in_state) 
 
 #endif
 
+// vim: ts=4:sw=4

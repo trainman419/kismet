@@ -875,3 +875,4 @@ void KisPanelInterface::KillServer() {
 
 #endif
 
+// vim: ts=4:sw=4

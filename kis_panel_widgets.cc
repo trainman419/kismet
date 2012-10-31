@@ -3881,3 +3881,4 @@ void Kis_Panel::KillPanel() {
 
 #endif
 
+// vim: ts=4:sw=4

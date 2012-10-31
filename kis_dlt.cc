@@ -62,3 +62,4 @@ Kis_DLT_Handler::~Kis_DLT_Handler() {
 	chainid = -1;
 }
 
+// vim: ts=4:sw=4

@@ -4605,3 +4605,4 @@ Netracker::tracked_client *Kis_Clientlist::FetchSelectedClient() {
 
 #endif // panel
 
+// vim: ts=4:sw=4

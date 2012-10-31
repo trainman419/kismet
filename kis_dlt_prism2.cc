@@ -276,3 +276,4 @@ int Kis_DLT_Prism2::HandlePacket(kis_packet *in_pack) {
 }
 
 
+// vim: ts=4:sw=4

@@ -711,3 +711,4 @@ main (argc, argv)
 }
 
 #endif /* TEST */
+// vim: ts=4:sw=4

@@ -59,3 +59,4 @@ void MessageBus::RemoveClient(MessageClient *in_unsubscriber) {
     return;
 }
 
+// vim: ts=4:sw=4

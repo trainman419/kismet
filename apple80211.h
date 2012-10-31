@@ -432,3 +432,4 @@ extern WIErr WirelessHCF_GetInfo(
 extern WIErr WirelessPrivate(WirelessContextPtr inContext,void* in_ptr,int in_bytes,void* out_ptr,int  out_bytes);
 
 #endif // __APPLE_80211__
+// vim: ts=4:sw=4

@@ -309,3 +309,4 @@ int SequenceSpoofAutomata::ProcessPacket(const packet_info *in_info) {
     return ret;
 }
 #endif
+// vim: ts=4:sw=4

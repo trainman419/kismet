@@ -175,3 +175,4 @@ int RingBuffer::Resize(int in_newlen) {
 	return 1;
 }
 
+// vim: ts=4:sw=4

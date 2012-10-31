@@ -155,3 +155,4 @@ int SerialClient::WriteBytes() {
     return ret;
 }
 
+// vim: ts=4:sw=4

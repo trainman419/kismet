@@ -502,3 +502,4 @@ int PacketSource_BSDRT::DatalinkType() {
 
 #endif
 
+// vim: ts=4:sw=4
