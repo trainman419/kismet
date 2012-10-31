@@ -54,7 +54,7 @@ const char *TERMINATE_fields_text[] = {
 };
 
 const char *CAPABILITY_fields_text[] = {
-    "capabilities",
+    "protocol", "capabilities",
     NULL
 };
 
