@@ -278,7 +278,7 @@ int Protocol_PACKET_hook(CHAINCALL_PARMS) {
     data->pdvec.push_back(tmpstr);
 
     // channel
-    snprintf(tmpstr, 128, "%d", packinfo?packinfo->channel:-1);
+    snprintf(tmpstr, 128, "%d", dot11_info?dot11_info->channel:-1);
     data->pdvec.push_back(tmpstr);
 
     // datarate
