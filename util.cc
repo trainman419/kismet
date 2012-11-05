@@ -715,6 +715,8 @@ uint32_t Adler32Checksum(const char *buf1, int len) {
 	return (s1 & 0xffff) + (s2 << 16);
 }
 
+// see: http://www.qsl.net/kb9mwr/projects/wireless/allocations.html for
+//  more information about channel allocations
 int IEEE80211Freq[][2] = {
 	{1, 2412},
 	{2, 2417},
@@ -755,13 +757,21 @@ int IEEE80211Freq[][2] = {
 	{59, 5295},
 	{60, 5300},
 	{64, 5320},
+	{148, 5740},
 	{149, 5745},
 	{150, 5750},
+	{151, 5755},
 	{152, 5760},
 	{153, 5765},
+	{154, 5770},
+	{155, 5775},
+	{156, 5780},
 	{157, 5785},
+	{158, 5790},
+	{159, 5795},
 	{160, 5800},
 	{161, 5805},
+	{162, 5810},
 	{165, 5825},
 	{0, 0}
 };
